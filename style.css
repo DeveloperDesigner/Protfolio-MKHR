@@ -121,3 +121,37 @@ main {
     font-size: 20px;
     color: #474747;
 }
+
+/* skill section style */
+.skill-section {
+    margin-top: 130px;
+}
+
+.section-title {
+    text-align: center;
+    justify-content: center;
+}
+
+.skill-container {
+    display: flex;
+}
+
+.skill-title {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.skill-discription {
+    color: #757575;
+}
+
+.skill {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+/*resume style*/
