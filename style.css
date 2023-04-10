@@ -155,3 +155,53 @@ main {
 }
 
 /*resume style*/
+.resume-content {
+    display: flex;
+    gap: 25px;
+    justify-content: space-around;
+}
+
+
+.resume-section-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 130px;
+    margin-bottom: 80px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.resume-title {
+
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+}
+
+.resume .title {
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+
+}
+
+.resume .sub-title {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+
+.resume .discription {
+    font-size: 16px;
+    color: #757575;
+
+}
+.resume-btn{
+    margin-top: 50px;
+    text-align: center;
+}
